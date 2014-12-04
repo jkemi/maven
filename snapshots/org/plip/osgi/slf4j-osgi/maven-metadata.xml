@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.plip.osgi</groupId>
+  <artifactId>slf4j-osgi</artifactId>
+  <version>1.7-0.2-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>1.7-0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20141204151307</lastUpdated>
+  </versioning>
+</metadata>
